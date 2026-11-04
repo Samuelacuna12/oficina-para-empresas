@@ -15,7 +15,7 @@ Plantilla de oficina interactiva con equipo 3D, departamentos, pipeline de tarea
 
 Requisitos: Node.js y Codex CLI con una sesión iniciada en la máquina que ejecutará la oficina.
 
-Descarga [el código completo como ZIP](./oficina-para-empresas.zip), descomprímelo y en Terminal entra a la carpeta `oficina-para-empresas`. Luego ejecuta:
+Descarga [el código completo como ZIP](https://github.com/Samuelacuna12/oficina-para-empresas/raw/refs/heads/main/oficina-para-empresas.zip), descomprímelo y en Terminal entra a la carpeta `oficina-para-empresas`. Luego ejecuta:
 
 ```sh
 node start.mjs
